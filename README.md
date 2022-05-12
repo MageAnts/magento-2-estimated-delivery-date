@@ -18,8 +18,8 @@
 				<div class="more-features">
 					<h3>Demo</h3>
 					<ul>
-						<li>frontend demo - <a href="http://pickup.demo10.b7fb87dd732790222.temporary.link/bolo-sport-watch.html">http://pickup.demo10.b7fb87dd732790222.temporary.link/bolo-sport-watch.html</a></li>
-						<li>backend demo - <a href="https://demo10.b7fb87dd732790222.temporary.link/adminsession?un=storepic_admin&ps=admin123">https://demo10.b7fb87dd732790222.temporary.link/adminsession?un=storepic_admin&ps=admin123</a></li>
+						<li>frontend demo - <a href="http://estimateddeliverydate.demo11.b7fb87dd732790222.temporary.link/rival-field-messenger.html">http://estimateddeliverydate.demo11.b7fb87dd732790222.temporary.link/rival-field-messenger.html</a></li>
+						<li>backend demo - <a href="https://demo11.b7fb87dd732790222.temporary.link/adminsession?un=estimateddeliverydate&ps=admin123">https://demo11.b7fb87dd732790222.temporary.link/adminsession?un=estimateddeliverydate&ps=admin123</a></li>
 					</ul>
 				</div>
 			</div>
